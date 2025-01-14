@@ -27,7 +27,7 @@ const Portfolio = () => {
                     <p>I specialize in <b>Data Structures & Algorithms</b>, <b>Competitive Programming</b>, and <b>Full Stack Development</b>, with expertise in <b>React.js</b>, <b>Node.js</b>, and <b>JWT</b> for secure web applications.</p>
                     <p>I am skilled in <b>Python</b>, <b>C/C++</b>, <b>Java</b>, and <b>JavaScript</b>, and proficient with tools like <b>VS Code</b>, <b>Git</b>, <b>Docker</b>, and <b>MongoDB</b>. I have experience working in both <b>Windows</b> and <b>Linux</b> environments and am comfortable with <b>SQL</b> for database management.</p>
                     <p>Additionally, I have developed leadership skills through various projects and team roles.</p>
-                    <p><a href="https://drive.google.com/file/d/1ti0nHfsiXs-ugi7ZDOBoqE6tHEVHgHVl/view?usp=sharing" target="_blank">View my resume</a></p>
+                    <p><a href="https://drive.google.com/file/d/1FWB1HV7raEGwEgVmpEqa_fP9Hkgp_YNV/view?usp=drive_link" target="_blank">View my resume</a></p>
 
                 </div>
             </div>
